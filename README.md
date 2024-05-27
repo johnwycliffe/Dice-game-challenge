@@ -18,3 +18,5 @@ restart 2.0
 ok okkk
 
 hello ...............now 
+
+movement paused
