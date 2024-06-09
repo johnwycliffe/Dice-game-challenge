@@ -20,3 +20,5 @@ ok okkk
 hello ...............now 
 
 movement paused
+
+momentum dead
